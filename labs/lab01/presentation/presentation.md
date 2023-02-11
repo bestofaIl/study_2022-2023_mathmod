@@ -35,7 +35,7 @@ section-titles: true
 
 1. Создали репозиторий на основе шаблона. (рис. \ref{img1})
 
-![Репозиторий git\label{img1}](image/img1.png){ width=70% }
+![Репозиторий git\label{img1="1"}](image/img1.png){ width=70% }
 
 ## Выполнение лабораторной работы
 
